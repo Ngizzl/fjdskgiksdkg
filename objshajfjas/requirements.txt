@@ -1,0 +1,6 @@
+discord-webhook>=1.3.0
+requests>=2.31.0
+psutil>=5.9.0
+GPUtil>=1.4.0
+cpuinfo>=9.0.0
+colorama>=0.4.6
